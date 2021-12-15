@@ -1,0 +1,29 @@
+{
+  "name": "sayka",
+  "version": "0.1.0",
+  "description": "A Cute Multipurpose Discord bot",
+  "main": "core/main.js",
+  "scripts": {
+    "start": "node core/main.js",
+    "test": "nodemon core/main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VincentRPS/Sayka.git"
+  },
+  "author": "VincentRPS",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/VincentRPS/Sayka/issues"
+  },
+  "homepage": "https://github.com/VincentRPS/Sayka#readme",
+  "dependencies": {
+    "discord.js": "^13.3.1",
+    "dotenv": "^10.0.0",
+    "nodemon": "^2.0.15"
+  },
+  "devDependencies": {
+    "eslint": "^8.4.1",
+    "eslint-config-google": "^0.14.0"
+  }
+}
