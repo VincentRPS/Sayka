@@ -23,6 +23,6 @@
     "nodemon": "^2.0.15"
   },
   "devDependencies": {
-    "eslint": "8.4.1"
+    "eslint": "8.5.0"
   }
 }
